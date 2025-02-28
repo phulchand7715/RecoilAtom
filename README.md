@@ -1,1 +1,1 @@
-## This a webpage demonstrating the use of Atom, Recoil and Recoil Hooks 
+## This is a webpage demonstrating the use of Atom, Recoil and Recoil Hooks 
